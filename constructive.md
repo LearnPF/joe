@@ -4,7 +4,12 @@ layout: default
 ---
  
 
-#Guide to the Constructive: 
+# Heading 1
+## Heading 2
+### Heading 3
+#### Heading 4
+##### Heading 5
+###### Heading 6
 
 The constructive is arguably one of the most important aspects of the Debate Round. It’s where you first present your arguments to the judge, and as such, it is important that you have one which is clear and accessible to all readers.
 
