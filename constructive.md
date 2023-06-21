@@ -2,7 +2,7 @@
 title: Constructive
 layout: home
 ---
-
+ 
 
 Guide to the Constructive: 
 
