@@ -1,6 +1,6 @@
 ---
 title: Constructive
-layout: home
+layout: default
 ---
  
 
