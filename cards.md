@@ -4,10 +4,10 @@ title: Cutting Cards
 parent: Advanced Strategies
 nav_order: 3
 ---
-
+# How to cut cards
 In PF Debates, evidence can play an important role in determining the outcome of the ballot. Thus, Debaters are held to a high standard when it comes to evidence ethics and Debaters should always have evidence which supports their claims - whether that be in any of their speeches or crossfire. 
 
-Note: When I refer to a “card” I really mean a piece of evidence 
+> Note: When I refer to a “card” I really mean a piece of evidence 
 
 Hence, because evidence is so important within PF Debate, it is important that you know the proper format to “cut” (cite) cards. Here is an example of a well-cut card. 
 
