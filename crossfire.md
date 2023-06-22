@@ -11,11 +11,11 @@ The goal for each speaker in crossfire is to prove why their opponent's case is 
 
 There are some guiding rules to consider when you participate in crossfire. You must strictly follow the rules below as you may be dropped (or lose the round) solely for bad behavior. 
 
--NEVER talk over your opponent or be rude
--Don’t say anything sexist, racist, homophobic, ableist, etc
--Don’t make up evidence or blatantly lie
--Belittling your opponents
--**AND DO NOT YELL**
+ - NEVER talk over your opponent or be rude
+ - Don’t say anything sexist, racist, homophobic, ableist, etc
+ - Don’t make up evidence or blatantly lie
+ - Belittling your opponents
+ - **AND DO NOT YELL**
 
 
 Some extra tips: 
