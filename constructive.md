@@ -38,7 +38,7 @@ If this isn’t making sense - no worries! Let’s look at a sample contention. 
 >
 >Thakkar of Harvard in 2021 elucidates that biometric identification includes fingerprints, iris scans, and face recognition. These identifiers ?are crucial, as a study from the National Institute of Health confirms that the Biometric Patient Identification system being implemented across the country identifies individuals at a near 100% accuracy rate.
 >
-?The second life-saving application is in screening for diseases.
+>The second life-saving application is in screening for diseases.
 >
 >Winterton of Healthline in 2023 finds that biometric screenings are being used to measure medical identifiers, from BMI, blood pressure, cholesterol levels, and blood sugar, to screening for anomalies in an individual’s DNA.
 >
