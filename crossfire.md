@@ -1,7 +1,7 @@
 
  ---
 title: Crossfire
-layout: defauly 
+layout: default
 --- 
  Guide to Crossfire
 
