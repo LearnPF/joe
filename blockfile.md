@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Buttons
-parent: Advanced
+parent: Advanced Strategies
 nav_order: 1
 ---
 
