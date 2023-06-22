@@ -1,6 +1,6 @@
 ---
 layout: default
-title: UI Components
+title: Advanced Strategies
 nav_order: 2
 has_children: true
 ---
