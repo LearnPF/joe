@@ -3,7 +3,7 @@ title: Crossfire
 layout: default
 --- 
 
-# Guide to the Constructive
+# Guide to Crossfire (cross)
 
 In Public Forum Debate, there are **three** crossfires. The first crossfire takes place directly after each team delivers their constructive speech (1st cross), the second crossfire takes place after each team delivers their rebuttal speech (2nd cross) and the third crossfire occurs after the summary speech (grand cross). 
 
