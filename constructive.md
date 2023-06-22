@@ -5,7 +5,7 @@ layout: default
  
 
 # Guide to the Constructive
- 
+  
 
 The constructive is arguably one of the most important aspects of the Debate Round. It’s where you first present your arguments to the judge, and as such, it is important that you have one which is clear and accessible to all readers.
 
