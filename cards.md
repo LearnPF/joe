@@ -1,3 +1,10 @@
+---
+layout: default
+title: Cutting Cards
+parent: Advanced Strategies
+nav_order: 3
+---
+
 In PF Debates, evidence can play an important role in determining the outcome of the ballot. Thus, Debaters are held to a high standard when it comes to evidence ethics and Debaters should always have evidence which supports their claims - whether that be in any of their speeches or crossfire. 
 
 Note: When I refer to a “card” I really mean a piece of evidence 
