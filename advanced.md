@@ -5,3 +5,4 @@ nav_order: 2
 has_children: true
 ---
 
+This part of the website serves to develop the skills of JV and Varsity Debaters. 
