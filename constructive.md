@@ -45,8 +45,7 @@ The second life-saving application is in screening for diseases.
 >
 >These scans are crucial, as Healthline furthers that they’re used by healthcare providers to predict when an individual is at risk for a disease. For this reason, Ameritas in 2022 finds that over 100,000 lives each year will be saved by these tools.
 
-{: refdef}> 
-
+ 
 
 
 
