@@ -19,14 +19,14 @@ There are some guiding rules to consider when you participate in crossfire. You 
 
 
 Some extra tips: 
--Sound confident 
--Maintain your perceptual dominance
--Speak Clearly/Be assertive
--Don’t pass on questions
--REMEMBER: Aggression is not dominance
--DON’T talk about issues you are losing
--Press your opponents on specifics
--Make their arguments seem silly, press for examples or just simply how things work
+ - Sound confident 
+ - Maintain your perceptual dominance
+ - Speak Clearly/Be assertive
+ - Don’t pass on questions
+ - REMEMBER: Aggression is not dominance
+ - DON’T talk about issues you are losing
+ - Press your opponents on specifics
+ - Make their arguments seem silly, press for examples or just simply how things work
 
 
 
