@@ -44,7 +44,8 @@ If this isn’t making sense - no worries! Let’s look at a sample contention. 
 >
 >These scans are crucial, as Healthline furthers that they’re used by healthcare providers to predict when an individual is at risk for a disease. For this reason, Ameritas in 2022 finds that over 100,000 lives each year will be saved by these tools.
 
- 
+ {: .warning }
+
 
 
 
