@@ -27,7 +27,7 @@ If you have all these items - congrats! You’ve successfully written your first
 
 If this isn’t making sense - no worries! Let’s look at a sample contention. This contention below was run at the 2023 Tournament of Champions. Before reading this contention, you need to know that the topic revolves around whether the United States government should pursue a ban on Biometrics (fingerprinting, Facial ID, DNA, etc.) which collect personal data. In this contention, the team is on the CON (or AGAINST banning biometrics) and as a result, argues that we should NOT ban Biometrics because they are used to identify patients. The team furthers that conventional means of identifying patients are not accurate. See if you can identify (and highlight?) the Uniqueness, Link, Warrant, and Impact. 
  
-{: .Practice! 
+{: .note 
 >Our first Contention concerns Medical Innovation. 
 
 >In the United States, biometric recognition technology has been used in a wide array of applications to give better patient care and save lives. The first application an affirmative ballout would destroy is patient identification.
@@ -43,7 +43,6 @@ If this isn’t making sense - no worries! Let’s look at a sample contention. 
 >Winterton of Healthline in 2023 finds that biometric screenings are being used to measure medical identifiers, from BMI, blood pressure, cholesterol levels, and blood sugar, to screening for anomalies in an individual’s DNA.
 >
 >These scans are crucial, as Healthline furthers that they’re used by healthcare providers to predict when an individual is at risk for a disease. For this reason, Ameritas in 2022 finds that over 100,000 lives each year will be saved by these tools.
-
 }
 
 
