@@ -6,8 +6,6 @@ theme: just-the-docs
 color_scheme: dark
  
 callouts:
-  warning:
+ note:
     title: Practice!
-    color: yellow
-
- 
+    color: purple
