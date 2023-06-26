@@ -13,7 +13,7 @@ Hence, because evidence is so important within PF Debate, it is important that y
 
 ___________________________________________________________________________________
 
-{: .example}
+{: .delete}
 >Database Already Massive
 >Justin Rohrlich, 2019, "Homeland Security will soon have biometric data on nearly 260 million people," Quartz, https://qz.com/1744400/dhs-expected-to-have-biometrics-on-260-million-people-by-2022 
 
