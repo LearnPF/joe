@@ -12,9 +12,8 @@ In PF Debates, evidence can play an important role in determining the outcome of
 Hence, because evidence is so important within PF Debate, it is important that you know the proper format to “cut” (cite) cards. Here is an example of a well-cut card. 
 
 ___________________________________________________________________________________
+
 {: .example}
-
-
 >Database Already Massive
 >Justin Rohrlich, 2019, "Homeland Security will soon have biometric data on nearly 260 million people," Quartz, https://qz.com/1744400/dhs-expected-to-have-biometrics-on-260-million-people-by-2022 
 
