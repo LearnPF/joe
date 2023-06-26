@@ -2,7 +2,7 @@
 title: Constructive
 layout: default
 ---
- 
+  
 
 # Guide to the Constructive
   
