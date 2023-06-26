@@ -6,7 +6,7 @@ theme: just-the-docs
 
 
   
-callouts:
+callouts: 
  note:
     title: Practice!
     color: green 
