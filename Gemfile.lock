@@ -1,7 +1,6 @@
 GEM
 
-bundle add webrick
-
+ 
   remote: https://rubygems.org/
   specs:
     addressable (2.8.4)
