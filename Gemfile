@@ -1,6 +1,6 @@
 source "https://rubygems.org"
 
-gem "jekyll", "~> 4.3"
+gem "jekyll", "~> 4.3" 
 
 gem "jekyll-seo-tag", ">= 2.0"
 gem "rake", ">= 12.3.1"
