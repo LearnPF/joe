@@ -1,7 +1,10 @@
 title: LearnPF
-description: A starter template for a Jeykll site using the Just the Docs theme!
+description: Debate, made free
 theme: just-the-docs
 
+url:https://learnpf.github.io/crossfire.html
+
+ 
  color_scheme: dark
 
  
