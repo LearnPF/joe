@@ -11,7 +11,7 @@ Rebuttal can be hard, and when we see top-tier debaters deliver speeches - we ma
 
 Here is an example of what we call a “block” (or a singular response). Note that the following block is from the 2023 TOC. This response to the argument on how Facial Recognition Technology Deters crime is directly below: 
 
-{: .note}
+{: .example}
 
 
 ># A/T Crime
