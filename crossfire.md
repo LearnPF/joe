@@ -1,6 +1,7 @@
 ---
 title: Crossfire
 layout: default
+nav_order: 3
 --- 
 
 # Guide to Crossfire (cross)
