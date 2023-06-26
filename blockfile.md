@@ -12,8 +12,6 @@ Rebuttal can be hard, and when we see top-tier debaters deliver speeches - we ma
 Here is an example of what we call a “block” (or a singular response). Note that the following block is from the 2023 TOC. This response to the argument on how Facial Recognition Technology Deters crime is directly below: 
 
 {: .example}
-
-
 ># A/T Crime
 >- **Delink:** FRT is easily tricked. Read 22’ explained “Although there are many positive outcomes arising from the use of FRT, there are a variety of security concerns linked to its use. Factors including camera angles can affect the technology’s ability to recognize people’s faces. People wearing disguises or slightly changing their appearance can throw off facial recognition technology.” 
 >- **Turn:** These technologies are biased against communities of color. NYT 22’ explains how The findings of government tests released in December show that the type of facial recognition used in police investigations tends to produce more false positive results when evaluating images of black women. 
